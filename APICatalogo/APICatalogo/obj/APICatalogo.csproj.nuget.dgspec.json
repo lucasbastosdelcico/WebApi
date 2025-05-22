@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {}
+    "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {
+    "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+        "projectUniqueName": "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+        "projectPath": "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\obj\\",
+        "outputPath": "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,6 +60,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",

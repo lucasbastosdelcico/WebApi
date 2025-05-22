@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub\\WebApi\\APICatalogo\\",
+  "WorkspaceRootPath": "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|c:\\github\\webapi\\apicatalogo\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|c:\\github\\webapi\\webapi\\apicatalogo\\apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|c:\\github\\webapi\\apicatalogo\\apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|c:\\github\\webapi\\apicatalogo\\apicatalogo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|c:\\github\\webapi\\apicatalogo\\apicatalogo\\domain\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|c:\\github\\webapi\\webapi\\apicatalogo\\apicatalogo\\domain\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\domain\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|c:\\github\\webapi\\webapi\\apicatalogo\\apicatalogo\\domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|c:\\github\\webapi\\webapi\\apicatalogo\\apicatalogo\\migrations\\20250206003159_alternamecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751D39B2-95E6-48FF-BF81-A148F0D035FE}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\migrations\\20250206003159_alternamecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\Program.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
-              "ToolTip": "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\Program.cs",
-              "RelativeToolTip": "APICatalogo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:34:06.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\appsettings.json",
-              "RelativeDocumentMoniker": "APICatalogo\\appsettings.json",
-              "ToolTip": "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\appsettings.json",
-              "RelativeToolTip": "APICatalogo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T21:27:54.102Z",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\Domain\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Domain\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\Domain\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "APICatalogo\\Domain\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T23:40:39.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "APICatalogo\\appsettings.Development.json",
-              "ToolTip": "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\appsettings.Development.json",
-              "RelativeToolTip": "APICatalogo\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T21:27:50.781Z",
+              "DocumentIndex": 0,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "APICatalogo\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T23:30:48.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\Domain\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Domain\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\GitHub\\WebApi\\APICatalogo\\APICatalogo\\Domain\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "APICatalogo\\Domain\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Title": "20250206003159_AlterNameColumn.cs",
+              "DocumentMoniker": "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\Migrations\\20250206003159_AlterNameColumn.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Migrations\\20250206003159_AlterNameColumn.cs",
+              "ToolTip": "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\Migrations\\20250206003159_AlterNameColumn.cs",
+              "RelativeToolTip": "APICatalogo\\Migrations\\20250206003159_AlterNameColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:23:52.803Z",
+              "WhenOpened": "2025-02-06T00:32:03.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\Domain\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Domain\\Entities\\Produto.cs",
+              "ToolTip": "C:\\GitHub\\WebApi\\WebApi\\APICatalogo\\APICatalogo\\Domain\\Entities\\Produto.cs",
+              "RelativeToolTip": "APICatalogo\\Domain\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:30:04.798Z",
               "EditorCaption": ""
             }
           ]
